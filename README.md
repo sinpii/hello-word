@@ -1,2 +1,2 @@
 # hello-word
-Sini's test repository
+Sini here, I am editing readme :)
