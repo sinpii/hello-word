@@ -1,4 +1,2 @@
 # hello-word
-Sini's test repository
-+Testing editing of readme.md
--Sini's
+Sini here, I am editing readme :)
